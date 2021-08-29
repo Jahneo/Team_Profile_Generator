@@ -5,4 +5,4 @@ test ( 'create a employee object',() => {
     expect(employee.ide).toBeEqual(expect.any(Number));
     expect(employee.email).toBeEqual(expect.any(String));
 
-})
+});

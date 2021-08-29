@@ -4,6 +4,7 @@
   "description": "a node project that take sininformation about employees on asoftware team and generates and html page",
   "main": "index.js",
   "dependencies": {
+    "inquirer": "^8.1.2",
     "jest": "^27.1.0"
   },
   "devDependencies": {},
