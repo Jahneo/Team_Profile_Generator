@@ -26,11 +26,11 @@
  jest tests
 
  # Final
- [Final](./dist/assets/images/final_page.PNG)
+ [Final](.dist/assets/images/final_page.PNG)
 
  
     
-[[Video image](./dist/assets/images/video_image.PNG)](https://drive.google.com/file/d/1280MzY0mvC3NDsGBr82tpKsU_pu-GZy5/preview)
+[[Video image](.dist/assets/images/video_image.PNG)](https://drive.google.com/file/d/1280MzY0mvC3NDsGBr82tpKsU_pu-GZy5/preview)
  # Credit
  Thanks to README.md Generator for creating this README file
 
