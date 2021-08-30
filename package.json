@@ -1,0 +1,29 @@
+{
+  "name": "team_profile_generator",
+  "version": "1.0.0",
+  "description": "a node project that take sininformation about employees on asoftware team and generates and html page",
+  "main": "index.js",
+  "dependencies": {
+    "inquirer": "^8.1.2",
+    "jest": "^27.1.0"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "jest"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Jahneo/Team_Profile_Generator.git"
+  },
+  "keywords": [
+    "test",
+    "employee",
+    "roles"
+  ],
+  "author": "Neil Hall",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Jahneo/Team_Profile_Generator/issues"
+  },
+  "homepage": "https://github.com/Jahneo/Team_Profile_Generator#readme"
+}
