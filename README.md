@@ -39,4 +39,4 @@
   
   
   #### [Jahneo@aim.com](mailto:Jahneo@aim.com)
-  ![Github link](https://github.com/Jahneo) 
+  [Github link](https://github.com/Jahneo) 
