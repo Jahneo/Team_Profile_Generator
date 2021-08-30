@@ -26,7 +26,7 @@
  jest tests
 
  # Final
- (./dist/assets/images/final_page.PNG)
+ ![Final](./dist/assets/images/final_page.PNG)
 
  
     
