@@ -16,6 +16,7 @@
 
  # Usage
  jest tests and node index.js
+ ![fail](./dist/assets/images/fail_2.PNG)
 
  
 
